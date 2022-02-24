@@ -3,7 +3,6 @@ Flask Authentication Application
 
 ## Prerequisites
 * Docker is installed
-* A commnd line is available
 * VS Code
 
 ## Instructions to setup workspace
